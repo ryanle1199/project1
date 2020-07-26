@@ -1,0 +1,39 @@
+
+   a {
+      color: lightslategrey;
+      font-family: helvetica;
+      text-decoration: none;
+      text-transform: uppercase;
+      text-align: right;
+      position: fixed;
+    }
+  
+  
+ p {
+    color: lightcoral;
+    font-family: cursive;
+    font-size: 90px;
+    position: center;
+    
+     
+ }
+.quote {
+   font-family: cursive;
+   font-size: 40px;
+   
+}
+
+
+ ul {
+   list-style-type: none;
+ 
+ }
+
+
+ body {
+   width: 900px;
+   max-width: 1000px;
+   margin: 0 auto;
+   font: large;
+ }
+
